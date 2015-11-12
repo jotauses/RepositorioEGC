@@ -5,3 +5,8 @@ exit
 
 
 que haces escribiendo un bashhh ioooo
+
+
+
+
+Con esto tendremos un conflicto
